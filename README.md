@@ -1,15 +1,16 @@
-# galoiscpp
+# GaloisCPP
+*******************************************************************************
 GaloisCPP: C++ Library for General Galois Field Arithmetic
 
-*******************************************************************************
-Language: C++ (2007)
 Version: 0.99
-License: MIT License
+
+Language: C++ (2007)
 
 Developer: Saied H. Khayat
+
 Date started: Feb 2013
 
-   Copyright Notice: Free use of this library is permitted under the
+Copyright Notice: Free use of this library is permitted under the
    guidelines and in accordance with the MIT License (MIT).
    http://opensource.org/licenses/MIT
 
@@ -46,3 +47,4 @@ fields, the library presented here handles the general case, i.e., GF(p^m). In
 this library, the characteristic p of the finite field is a class parameter that
 can be set to any prime integer limited only by the computer's integer word. To
 promote maximum portability, this library is written in standard C++.
+
