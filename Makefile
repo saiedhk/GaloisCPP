@@ -1,16 +1,17 @@
 #**********************************************************************
 #
-#       Project: C++ Library for General Galois Field Arithmetic
+#      Project: C++ Library for General Galois Field Arithmetic
 #
-#   Author: Saied H. Khayat
-#   Email:  shk@alum.wustl.edu
-#   Date:   February 2013
+#  Language: C++ 2007	   
+#  Author: Saied H. Khayat
+#  Date:   February 2013
+#  Project URL: https://github.com/saiedhk/galoiscpp
+#  
+#  Copyright Notice: Free use of this library is permitted under the
+#  guidelines and in accordance with the MIT License (MIT).
+#  http://opensource.org/licenses/MIT
 #
-#   Copyright Notice: Free use of this library is permitted under the
-#   guidelines and in accordance with the MIT License (MIT).
-#   http://opensource.org/licenses/MIT
-#
-#**********************************************************************
+#*********************************************************************/
 
 # GNU Makefile to build the "test_gfelement" executable
 

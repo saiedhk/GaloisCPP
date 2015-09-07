@@ -1,6 +1,20 @@
 # galoiscpp
 GaloisCPP: C++ Library for General Galois Field Arithmetic
 
+*******************************************************************************
+Language: C++ (2007)
+Version: 0.99
+License: MIT License
+
+Developer: Saied H. Khayat
+Date started: Feb 2013
+
+   Copyright Notice: Free use of this library is permitted under the
+   guidelines and in accordance with the MIT License (MIT).
+   http://opensource.org/licenses/MIT
+
+*******************************************************************************
+
 This C++ library provides classes and operators for arithmetic operations
 on general finite field elements. A field is an algebraic structure in which the
 operations of addition, subtraction, multiplication, and division (except by
