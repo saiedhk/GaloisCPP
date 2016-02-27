@@ -1,11 +1,10 @@
 /**********************************************************************
-
-       Project: C++ Library for General Galois Field Arithmetic
+   Project: C++ Library for General Galois Field Arithmetic
 
    Language: C++ 2007	   
    Author: Saied H. Khayat
-   Date:   February 2013
-   Project URL: https://github.com/saiedhk/galoiscpp
+   Date:   Feb 2013
+   URL: https://github.com/saiedhk
    
    Copyright Notice: Free use of this library is permitted under the
    guidelines and in accordance with the MIT License (MIT).
